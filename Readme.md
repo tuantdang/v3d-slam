@@ -33,8 +33,8 @@ Overview of V3D-SLAM: improving the robustness of RGB-D SLAM in dynamic indoor e
 
 ## Evaluation on TUM RGB-D Dataset
 
-Results can be found at [results](https://github.com/tuantdang/v3d-slam/tree/main/results)
-We can verify results at ground-truth availble as an online tool at [Online Evaluation](https://cvg.cit.tum.de/data/datasets/rgbd-dataset/online_evaluation)
+- Results can be found at [results](https://github.com/tuantdang/v3d-slam/tree/main/results)
+- We can verify results at ground-truth availble as an online tool at [Online Evaluation](https://cvg.cit.tum.de/data/datasets/rgbd-dataset/online_evaluation)
 
 <p align="center">
    <img src="images/ate.png" width="1080"> <br/>

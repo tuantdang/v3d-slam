@@ -53,7 +53,7 @@ Overview of V3D-SLAM: improving the robustness of RGB-D SLAM in dynamic indoor e
 
 
 ## Citing
-'''
+```
 @inproceedings{Dang2024V3D_SLAM,
   title        = {V3D‑SLAM: Robust RGB‑D SLAM in Dynamic Environments with 3D Semantic Geometry Voting},
   author       = {Tuan Dang and Khang Nguyen and Manfred Huber},
@@ -63,4 +63,4 @@ Overview of V3D-SLAM: improving the robustness of RGB-D SLAM in dynamic indoor e
   note         = {Presented 14--18 October 2024},
   url          = {https://arxiv.org/abs/2410.12068},
 }
-'''
+```
